@@ -1,0 +1,34 @@
+﻿# Site settings
+title: 疯趣|疯趣直播|疯趣电商|疯趣网红
+subtitle: 
+email: fengqushop@163.com
+description: 中国最大的网红&粉丝互动变现平台,致力于打造中国最大的粉丝互动娱乐平台，通过线上线下的娱乐活动.
+baseurl: "/"         # the subpath of your site, e.g. /blog
+url: ""      # the base hostname & protocol for your site
+author:
+street_address: 软件园二期望海路61号南一楼
+city: 厦门市
+state:  
+zip_code: 361000
+country:  
+phone: 0592-5909876
+
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 12
+
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: https://gitlab.com/u/andrewbanchich
+googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/andrewbanchich
+
+# Build settings
+markdown: kramdown
