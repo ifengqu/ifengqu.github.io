@@ -20,7 +20,7 @@
 		
 		{% for page in site.pages %}
 		    {% if page.layout != "home" %}
-		        <li><a href="{{ "" | absolute_url }}/{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+		        <li><a href="{{ "" | absolute_url }{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
 		{% endfor %}
 
